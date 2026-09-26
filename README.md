@@ -3,6 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C5CE7&height=180&section=header&text=Umair%20Akram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Front-End%20Developer%20%7C%20Digital%20Marketer%20%7C%20BSCS%20Student&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical+AI+Projects;Python+%7C+Machine+Learning+%7C+Deep+Learning;Front-End+Development+%7C+Digital+Marketing+%7C+SEO;Always+Learning%2C+Building+%26+Improving+%F0%9F%9A%80" alt="Typing Animation"/>
