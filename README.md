@@ -1,8 +1,5 @@
 <div align="center">
-<div align="center">
-
 ✨ 🌟 ✨ 🌙 ✨ 🌟 ✨
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C5CE7&height=180&section=header&text=Umair%20Akram...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C5CE7&height=180&section=header&text=Umair%20Akram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Front-End%20Developer%20%7C%20Digital%20Marketer%20%7C%20BSCS%20Student&descAlignY=58&descSize=18"/>
